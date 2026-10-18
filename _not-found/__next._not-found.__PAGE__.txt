@@ -1,0 +1,23 @@
+1:"$Sreact.fragment"
+2:I[22016,["/dr-zahra-rostami-public/_next/static/chunks/3fntmmi971322.js","/dr-zahra-rostami-public/_next/static/chunks/0axdrs6tow-4n.js"],""]
+3:I[97367,["/dr-zahra-rostami-public/_next/static/chunks/3fntmmi971322.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+8:I[97367,["/dr-zahra-rostami-public/_next/static/chunks/3fntmmi971322.js"],"ViewportBoundary"]
+9:I[97367,["/dr-zahra-rostami-public/_next/static/chunks/3fntmmi971322.js"],"MetadataBoundary"]
+a:I[27201,["/dr-zahra-rostami-public/_next/static/chunks/3fntmmi971322.js"],"IconMark"]
+c:I[39756,["/dr-zahra-rostami-public/_next/static/chunks/3fntmmi971322.js"],"default"]
+d:I[37457,["/dr-zahra-rostami-public/_next/static/chunks/3fntmmi971322.js"],"default"]
+:HL["/dr-zahra-rostami-public/_next/static/chunks/0f_kl7gnyi7lp.css","style"]
+7:X
+f:X
+f:C
+0:{"buildId":"CGGa19FoOUIBnHjC7Q_BT","data":[{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"grid min-h-screen place-items-center px-6 text-center","children":["$","div",null,{"children":[["$","p",null,{"className":"font-display text-6xl text-rose-soft","children":"404"}],["$","h1",null,{"className":"mt-4 text-2xl font-bold","children":"این صفحه پیدا نشد"}],["$","p",null,{"className":"mt-3 leading-loose text-muted","children":"ممکن است نشانی تغییر کرده باشد یا صفحه حذف شده باشد."}],["$","$L2",null,{"href":"/","className":"inline-flex items-center justify-center gap-2 rounded-full font-medium transition-all duration-300 ease-[var(--ease-out-soft)] disabled:opacity-50 disabled:pointer-events-none whitespace-nowrap bg-rose-deep text-cream hover:bg-ink shadow-[0_1px_2px_rgba(42,35,32,0.12)] hover:shadow-[0_8px_24px_-8px_rgba(141,95,75,0.5)] h-11 px-6 text-[0.9375rem] mt-8","children":"بازگشت به صفحهٔ اصلی"}]]}]}],[["$","script","script-0",{"src":"/dr-zahra-rostami-public/_next/static/chunks/0axdrs6tow-4n.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":"$@6","staleTime":"$7","varyParams":null},{"rsc":["$","$1","h",{"children":[["$","meta",null,{"name":"robots","content":"noindex"}],["$","$L8",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#fbf8f4"}]]}],["$","div",null,{"hidden":true,"children":["$","$L9",null,{"children":["$","$4",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"دکتر زهرا رستمی | پزشک زیبایی"}],["$","meta","1",{"name":"robots","content":"index, follow"}],["$","link","2",{"rel":"icon","href":"/dr-zahra-rostami-public/favicon.ico?favicon.2vob68tjqpejf.ico","sizes":"256x256","type":"image/x-icon"}],["$","$La","3",{}]]}]}]}],null]}],"isPartial":"$@b","staleTime":"$7","varyParams":null},{"rsc":["$","$1","c",{"children":[null,["$","$Lc",null,{"parallelRouterKey":"children","template":["$","$Ld",null,{}]}]]}],"isPartial":"$@e","staleTime":"$7","varyParams":"$f"},{"rsc":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/dr-zahra-rostami-public/_next/static/chunks/0f_kl7gnyi7lp.css","precedence":"next"}],["$","script","script-0",{"src":"/dr-zahra-rostami-public/_next/static/chunks/3fntmmi971322.js","async":true}]],["$","html",null,{"lang":"fa","dir":"rtl","children":["$","body",null,{"className":"antialiased","children":["$","$Lc",null,{"parallelRouterKey":"children","template":["$","$Ld",null,{}],"notFound":[["$","div",null,{"className":"grid min-h-screen place-items-center px-6 text-center","children":["$","div",null,{"children":[["$","p",null,{"className":"font-display text-6xl text-rose-soft","children":"404"}],["$","h1",null,{"className":"mt-4 text-2xl font-bold","children":"این صفحه پیدا نشد"}],["$","p",null,{"className":"mt-3 leading-loose text-muted","children":"ممکن است نشانی تغییر کرده باشد یا صفحه حذف شده باشد."}],["$","$L2",null,{"href":"/","className":"inline-flex items-center justify-center gap-2 rounded-full font-medium transition-all duration-300 ease-[var(--ease-out-soft)] disabled:opacity-50 disabled:pointer-events-none whitespace-nowrap bg-rose-deep text-cream hover:bg-ink shadow-[0_1px_2px_rgba(42,35,32,0.12)] hover:shadow-[0_8px_24px_-8px_rgba(141,95,75,0.5)] h-11 px-6 text-[0.9375rem] mt-8","children":"بازگشت به صفحهٔ اصلی"}]]}]}],[]]}]}]}]]}],"isPartial":"$@10","staleTime":"$7","varyParams":null}],"isUpgradeableISRFallback":false,"a":"$@11","rootVaryParams":null,"needsRuntimeRequest":"$@12"}
+5:null
+7:300
+12:true
+7:C
+11:0
+b:"$undefined"
+e:"$undefined"
+10:"$undefined"
+6:"$undefined"
